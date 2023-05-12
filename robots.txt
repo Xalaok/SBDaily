@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sbdaily.xalaok.top/sitemap.xml
