@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sbdaily.xalaok.top/posts/230525to0526/</loc>
-    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+    <loc>https://sbdaily.xalaok.top/posts/230529/</loc>
+    <lastmod>2023-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sbdaily.xalaok.top/posts/</loc>
-    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sbdaily.xalaok.top/</loc>
+    <lastmod>2023-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sbdaily.xalaok.top/posts/230525to0526/</loc>
     <lastmod>2023-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sbdaily.xalaok.top/posts/230524/</loc>
@@ -167,5 +170,7 @@
     <loc>https://sbdaily.xalaok.top/series/</loc>
   </url><url>
     <loc>https://sbdaily.xalaok.top/tags/</loc>
+  </url><url>
+    <loc>https://sbdaily.xalaok.top/abbr/</loc>
   </url>
 </urlset>

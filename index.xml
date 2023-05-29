@@ -1,16 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>SBDaily</title>
+    <title>三班日报 SBDaily</title>
     <link>https://sbdaily.xalaok.top/</link>
-    <description>Recent content on SBDaily</description>
+    <description>Recent content on 三班日报 SBDaily</description>
     <image>
-      <title>SBDaily</title>
+      <title>三班日报 SBDaily</title>
       <url>https://sbdaily.xalaok.top/papermod-cover.png</url>
       <link>https://sbdaily.xalaok.top/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sbdaily.xalaok.top/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sbdaily.xalaok.top/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>	47 05/29 MON</title>
+      <link>https://sbdaily.xalaok.top/posts/230529/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sbdaily.xalaok.top/posts/230529/</guid>
+      <description>隔离记录：
+今日 1 人没来：yhs
+zh rm ghg，zy rmzf，今天，泰裤辣！
+14 个人写入团申请书，但是只有 4 个人能上团课，正是团员更少
+一班十多个人被噶出语文学习群
+yy：我讲到现在，srh 记到现在（赞赏）
+（srh 在抄语文）
+yy：我树立了一个错误的榜样
+yy：sc 啊，你虚了。我一看你你一抖，肉都在抖
+J：人一来齐就换座位
+饼</description>
+    </item>
+    
     <item>
       <title>46 05/25 to 05/26</title>
       <link>https://sbdaily.xalaok.top/posts/230525to0526/</link>
@@ -1150,6 +1169,15 @@ BV11e4y1e7CY</description>
     </item>
     
     
+    
+    <item>
+      <title>英文简写对照表</title>
+      <link>https://sbdaily.xalaok.top/abbr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sbdaily.xalaok.top/abbr/</guid>
+      <description>英文简写对照表</description>
+    </item>
     
   </channel>
 </rss>
