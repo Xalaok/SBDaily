@@ -57,13 +57,11 @@
 </noscript><meta property="og:title" content="暂停更新至 04/27 " />
 <meta property="og:description" content="停更时间：2023/04/17~2023/04/27 这周五（04/14）发完第30篇，停更两周，春游那天会发两周合集 评论 XiMenHu frank2520@163.com 114.93.146.233 祝大家期中考试" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://sbdaily.xalaok.top/posts/stop/" /><meta property="og:image" content="https://sbdaily.xalaok.top/papermod-cover.png"/><meta property="article:section" content="posts" />
+<meta property="og:url" content="https://sbdaily.xalaok.top/posts/stop/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2023-04-18T00:00:00+00:00" />
 <meta property="article:modified_time" content="2023-04-18T00:00:00+00:00" />
 
-<meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="https://sbdaily.xalaok.top/papermod-cover.png"/>
-
+<meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="暂停更新至 04/27 "/>
 <meta name="twitter:description" content="停更时间：2023/04/17~2023/04/27 这周五（04/14）发完第30篇，停更两周，春游那天会发两周合集 评论 XiMenHu frank2520@163.com 114.93.146.233 祝大家期中考试"/>
 
@@ -243,7 +241,34 @@
   </a>
 </nav>
 
-  </footer>
+  </footer><head>
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/@waline/client@2.14.6/dist/waline.css">
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/@waline/client@2.14.6/dist/waline-meta.css">
+  </head>
+  <body>
+    
+    <div id="waline"></div>
+    <script type="module">
+      import { init } from 'https://unpkg.com/@waline/client@v2.14.6/dist/waline.mjs';
+  
+      init({
+        el: '#waline',
+        lang: 'zh-CN',
+        serverURL: 'https://pl.xalaok.top',
+        copyright: false,
+        locale:{"admin":"👻屑博主","placeholder":"🎉留下你的脚印."},
+        dark:'body.dark',
+        requiredMeta:["name","email"],
+        
+      
+      emoji: [
+        'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100',
+        '//cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili',
+      ],
+      });
+    </script>
+  </body>
+
 </article>
     </main>
     

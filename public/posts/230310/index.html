@@ -57,13 +57,11 @@
 </noscript><meta property="og:title" content="3 03/10 FRI" />
 <meta property="og:description" content="fy来了 yy：今天好像没有新来的人啊 fy：addd 09:45 收音 对我说 (私聊) 徐诗洁 29毛 13毛心远 114514臭毛心远 114514臭田所浩二 31审" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://sbdaily.xalaok.top/posts/230310/" /><meta property="og:image" content="https://sbdaily.xalaok.top/papermod-cover.png"/><meta property="article:section" content="posts" />
+<meta property="og:url" content="https://sbdaily.xalaok.top/posts/230310/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2023-03-10T00:00:00+00:00" />
 <meta property="article:modified_time" content="2023-03-10T00:00:00+00:00" />
 
-<meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="https://sbdaily.xalaok.top/papermod-cover.png"/>
-
+<meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="3 03/10 FRI"/>
 <meta name="twitter:description" content="fy来了 yy：今天好像没有新来的人啊 fy：addd 09:45 收音 对我说 (私聊) 徐诗洁 29毛 13毛心远 114514臭毛心远 114514臭田所浩二 31审"/>
 
@@ -279,7 +277,34 @@ yy：……我倒计五秒钟，他答不出来他就……摔下来很疼的，
   </a>
 </nav>
 
-  </footer>
+  </footer><head>
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/@waline/client@2.14.6/dist/waline.css">
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/@waline/client@2.14.6/dist/waline-meta.css">
+  </head>
+  <body>
+    
+    <div id="waline"></div>
+    <script type="module">
+      import { init } from 'https://unpkg.com/@waline/client@v2.14.6/dist/waline.mjs';
+  
+      init({
+        el: '#waline',
+        lang: 'zh-CN',
+        serverURL: 'https://pl.xalaok.top',
+        copyright: false,
+        locale:{"admin":"👻屑博主","placeholder":"🎉留下你的脚印."},
+        dark:'body.dark',
+        requiredMeta:["name","email"],
+        
+      
+      emoji: [
+        'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100',
+        '//cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili',
+      ],
+      });
+    </script>
+  </body>
+
 </article>
     </main>
     

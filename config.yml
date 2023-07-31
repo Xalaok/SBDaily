@@ -72,8 +72,7 @@ params:
     ShowToc: false
     hideSummary: false
     ShowWordCount: true
-    # comments: false
-    images: ["papermod-cover.png"]
+    comments: true
 
     profileMode:
         enabled: false

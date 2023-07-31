@@ -57,13 +57,11 @@
 </noscript><meta property="og:title" content="5 03/14 TUE" />
 <meta property="og:description" content="头条：今天没有语文昨夜 wls：正好说到科普啊科幻，你们相信今天没有语文作业吗？ （摇头、点头、未响应 wls：好的啊我们布置作业。给你们机会了，" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://sbdaily.xalaok.top/posts/230314/" /><meta property="og:image" content="https://sbdaily.xalaok.top/papermod-cover.png"/><meta property="article:section" content="posts" />
+<meta property="og:url" content="https://sbdaily.xalaok.top/posts/230314/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2023-03-14T00:00:00+00:00" />
 <meta property="article:modified_time" content="2023-03-14T00:00:00+00:00" />
 
-<meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="https://sbdaily.xalaok.top/papermod-cover.png"/>
-
+<meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="5 03/14 TUE"/>
 <meta name="twitter:description" content="头条：今天没有语文昨夜 wls：正好说到科普啊科幻，你们相信今天没有语文作业吗？ （摇头、点头、未响应 wls：好的啊我们布置作业。给你们机会了，"/>
 
@@ -315,7 +313,34 @@ zj：内个谁，吃好再写，或者写好再吃</p>
   </a>
 </nav>
 
-  </footer>
+  </footer><head>
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/@waline/client@2.14.6/dist/waline.css">
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/@waline/client@2.14.6/dist/waline-meta.css">
+  </head>
+  <body>
+    
+    <div id="waline"></div>
+    <script type="module">
+      import { init } from 'https://unpkg.com/@waline/client@v2.14.6/dist/waline.mjs';
+  
+      init({
+        el: '#waline',
+        lang: 'zh-CN',
+        serverURL: 'https://pl.xalaok.top',
+        copyright: false,
+        locale:{"admin":"👻屑博主","placeholder":"🎉留下你的脚印."},
+        dark:'body.dark',
+        requiredMeta:["name","email"],
+        
+      
+      emoji: [
+        'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100',
+        '//cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili',
+      ],
+      });
+    </script>
+  </body>
+
 </article>
     </main>
     
