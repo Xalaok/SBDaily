@@ -116,7 +116,7 @@ params:
         - name: github
           url: "https://github.com/Xalaok/SBDaily"
         - name: other
-          url: "https://blog.xalaok.top/"
+          url: "https://www.xalaok.top/"
         - name: bilibili
           url: "https://space.bilibili.com/1668281348"
         - name: email
