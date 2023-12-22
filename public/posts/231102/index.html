@@ -265,21 +265,21 @@ MyH</p>
 </nav>
 
   </footer><head>
-    <link rel="stylesheet" type="text/css" href="https://unpkg.com/@waline/client@2.14.6/dist/waline.css">
-    <link rel="stylesheet" type="text/css" href="https://unpkg.com/@waline/client@2.14.6/dist/waline-meta.css">
+    <link rel="stylesheet" type="text/css" href="/waline.css">
+    <link rel="stylesheet" type="text/css" href="/waline-meta.css">
   </head>
   <body>
     
     <div id="waline"></div>
     <script type="module">
-      import { init } from 'https://unpkg.com/@waline/client@v2.14.6/dist/waline.mjs';
+      import { init } from '/waline.mjs';
   
       init({
         el: '#waline',
         lang: 'zh-CN',
         serverURL: 'https://pl.xalaok.top',
         copyright: false,
-        locale:{"admin":"👻屑博主","placeholder":"🎉留下你的脚印."},
+        locale:{"admin":"站长","placeholder":"🎉留下你的脚印."},
         dark:'body.dark',
         requiredMeta:["name","email"],
         
