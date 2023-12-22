@@ -276,34 +276,28 @@ raisin scone, Dany, Emily, Rany, Teddy, Melody, Frank, Serena, Regina……</p>
   </a>
 </nav>
 
-  </footer><head>
-    <link rel="stylesheet" type="text/css" href="/waline.css">
-    <link rel="stylesheet" type="text/css" href="/waline-meta.css">
-  </head>
-  <body>
-    
-    <div id="waline"></div>
-    <script type="module">
-      import { init } from '/waline.mjs';
-  
-      init({
-        el: '#waline',
-        lang: 'zh-CN',
-        serverURL: 'https://pl.xalaok.top',
-        copyright: false,
-        locale:{"admin":"站长","placeholder":"🎉留下你的脚印."},
-        dark:'body.dark',
-        requiredMeta:["name","email"],
-        
-      
-      emoji: [
-        'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100',
-        '//cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili',
-      ],
-      });
-    </script>
-  </body>
+  </footer><link rel="stylesheet" type="text/css" href="/waline.css">
+<link rel="stylesheet" type="text/css" href="/waline-meta.css">
+<div id="waline"></div>
+<script type="module">
+  import { init } from '/waline.mjs';
 
+  init({
+    el: '#waline',
+    lang: 'zh-CN',
+    serverURL: 'https://pl.xalaok.top',
+    copyright: false,
+    locale:{"admin":"站长","placeholder":"🎉留下你的脚印."},
+    dark:'body.dark',
+    requiredMeta:["name","email"],
+    
+  
+  emoji: [
+    'https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100',
+    '//cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili',
+  ],
+  });
+</script>
 </article>
     </main>
     
