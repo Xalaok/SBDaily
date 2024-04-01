@@ -56,7 +56,7 @@ outputs:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-    author: LCJ
+    author: ["LCJ", "MXY"]
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
@@ -98,18 +98,14 @@ params:
             
             - 👥 所有内测用户：MXY、SC、FY、WYL、PDN、DQY、GAX、SJZ、ZZH、ZRR 
 
-            - 👨‍🎓 我们的老师：wls yy dj jyw xzf zj sl xy slf wj gym wwj whl hqf cjx hxp wgz zl wjn yde xyf lwl
+            - 👨‍🎓 我们的老师：wls yy dj jyw xzf zj sl xy slf lt wj gym wwj whl hqf cjx hxp wgz zl wjn yde xyf lwl
 
             - ❤️ 鸣谢：GAX、SC
 
-            - 🕒 上线时间：2023-05-12
+            - 🕒 日报发刊日期：2023-03-08 网站上线日期：原站 2023–03-16  当前站 2023-05-12
 
             - 英文简写对照表：<https://sbdaily.xalaok.top/abbr>
             
-            - <p style="padding-top:.5em"><a target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"  title="无特殊声明默认采用CC BY-NC-SA 4.0协议"><img src="https://cdn.xalaok.top/badge/ccbyncsa.svg" alt=""></a></p>
-              <p style="padding-top:.5em"><a target="_blank" href="https://vercel.com/"  title="托管于Vercel"><img src="https://cdn.xalaok.top/badge/vercel.svg" alt=""></a></p>
-              <p style="padding-top:.5em"><a target="_blank" href="https://github.com/"  title="网站源码由Github提供存储仓库"><img src="https://cdn.xalaok.top/badge/github.svg" alt=""></a></p>
-
     socialIcons:
         - name: github
           url: "https://github.com/Xalaok/SBDaily"
