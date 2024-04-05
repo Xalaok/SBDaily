@@ -279,16 +279,14 @@ yy：……我倒计五秒钟，他答不出来他就……摔下来很疼的，
 </nav>
 
   </footer><link rel="stylesheet" type="text/css" href="/waline.css">
-<link rel="stylesheet" type="text/css" href="/waline-meta.css">
 <div id="waline"></div>
 <script type="module">
-  import { init } from '/waline.mjs';
+  import { init } from '/waline.js';
 
   init({
     el: '#waline',
     lang: 'zh-CN',
     serverURL: 'https://pl.xalaok.top',
-    copyright: false,
     locale:{"admin":"站长","placeholder":"🎉留下你的脚印."},
     dark:'body.dark',
     requiredMeta:["name","email"],
