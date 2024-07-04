@@ -56,7 +56,7 @@ outputs:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-    author: ["LCJ", "MXY"]
+    author: ["LCJ"]
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
@@ -98,7 +98,7 @@ params:
             
             - 👥 所有内测用户：MXY、SC、FY、WYL、PDN、DQY、GAX、SJZ、ZZH、ZRR 
 
-            - 👨‍🎓 我们的老师：wls yy dj jyw xzf zj sl xy slf lt wj gym wwj whl hqf cjx hxp wgz zl wjn yde xyf lwl
+            - 👨‍🎓 我们的老师：wxy yy dj jyw xzf zj sl xy slf lt wj gym wwj whl hqf cjx hxp wgz zl wjn yde xyf lwl
 
             - ❤️ 鸣谢：GAX、SC
 
